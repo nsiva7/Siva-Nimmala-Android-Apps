@@ -1,1 +1,2 @@
- 
+Activity Test is a testing the Android Activity State like onCreate,onStart, onResume, etc,.
+This I have created for learning purpose.
